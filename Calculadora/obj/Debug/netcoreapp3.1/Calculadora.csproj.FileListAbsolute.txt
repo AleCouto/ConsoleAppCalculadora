@@ -1,0 +1,24 @@
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.csprojAssemblyReference.cache
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.AssemblyInfoInputs.cache
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.AssemblyInfo.cs
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.csproj.CoreCompileInputs.cache
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.deps.json
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.runtimeconfig.json
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.runtimeconfig.dev.json
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.dll
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.pdb
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.dll
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.pdb
+/Users/alexandrecouto/Projects/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.genruntimeconfig.cache
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.deps.json
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.runtimeconfig.json
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.runtimeconfig.dev.json
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.dll
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.pdb
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.csprojAssemblyReference.cache
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.AssemblyInfoInputs.cache
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.AssemblyInfo.cs
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.csproj.CoreCompileInputs.cache
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.dll
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.pdb
+/Users/alexandrecouto/Desktop/PastaWinMac/Repositorio de Codigos/exercicios rumos/Calculadora/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.genruntimeconfig.cache
