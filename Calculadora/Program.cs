@@ -137,14 +137,6 @@ namespace Calculadora
                     Console.WriteLine("FIM");
                 }
             }
-
         }
-
     }
-
 }
-
-
-    
-
-
