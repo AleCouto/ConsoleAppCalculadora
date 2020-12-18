@@ -4,6 +4,9 @@
  Features:
  Application developed to demonstrate a simple solution for calculating numbers using the C# programming language and a console application.
  
+ Program used: Visual Studio for Mac.
+ 
+ 
  
 
 
